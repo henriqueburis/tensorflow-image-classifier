@@ -1,0 +1,5 @@
+tensorboard --logdir=tf_files\training_summaries\basic\train
+
+tensorboard --logdir=tf_files\retrain_logs\validation
+
+http://aspire-4732z:6006/
